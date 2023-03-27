@@ -1,2 +1,16 @@
-# BLE_Radio_Flutter_App
-A mobile app written in flutter for controlling a BLE to radio transceiver. It uses BLE characteristics to send commands and data in full duplex. This is a prototype for a much more polished commercial version.
+# garage_ble
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
